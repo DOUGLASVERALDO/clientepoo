@@ -1,0 +1,13 @@
+C:\Programas\AppPessoa\bin\Debug\DbPessoa.mdf
+C:\Programas\AppPessoa\bin\Debug\DbPessoa_log.ldf
+C:\Programas\AppPessoa\bin\Debug\AppPessoa.exe.config
+C:\Programas\AppPessoa\bin\Debug\AppPessoa.exe
+C:\Programas\AppPessoa\bin\Debug\AppPessoa.pdb
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.AssemblyReference.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.SuggestedBindingRedirects.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.Form1.resources
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.Properties.Resources.resources
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.GenerateResource.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.CoreCompileInputs.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.exe
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.pdb
